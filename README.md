@@ -2,9 +2,6 @@
 - 🖥️ | Graduando em ciências da computação na UNICAP - 5/8
 - 👨‍💻 | Desenvolvedor frontend
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioCastro02&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Sergio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
