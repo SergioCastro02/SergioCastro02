@@ -1,6 +1,6 @@
 ### Olá! Eu sou Sérgio 
 - 🖥️ | Graduando em ciências da computação na UNICAP - 7/8
-- 👨‍💻 | Desenvolvedor frontend
+- 👨‍💻 | Desenvolvedor Full Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sergio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
