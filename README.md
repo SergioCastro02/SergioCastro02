@@ -1,5 +1,5 @@
 ### Olá! Eu sou Sérgio 
-- 🖥️ | Graduando em ciências da computação na UNICAP - 6/8
+- 🖥️ | Graduando em ciências da computação na UNICAP - 7/8
 - 👨‍💻 | Desenvolvedor frontend
 
 <div style="display: inline_block"><br>
